@@ -51,7 +51,7 @@ const App = () => {
             title = "News With Alan"
             pretag = "A website with the latest news on tech and politics powered by "
             posttag = "Alan"
-            hrefport = 'https://prathami1.studio'
+            hrefport = 'https://prathami1.tech'
             prebutton = 'Built By'
             name = "Pratham Inamdar"
           />
